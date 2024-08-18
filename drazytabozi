@@ -1,2 +1,2 @@
 getgenv().Key = "fe612823b9be9a43867b38a743b33bbe40163c10ce81bfcda3b8a8072805c5b9" 
-loadstring(game: HttpGet("https://nousigi.com/loader.lua"))()
+repeat wait()spawn(function()loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()end)wait(20)until Joebiden
